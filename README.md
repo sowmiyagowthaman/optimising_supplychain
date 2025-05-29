@@ -23,15 +23,15 @@ AI-powered tool that predicts sales, profit, and late delivery risks using suppl
 ## 📁 Project Structure
 
 optimising_supplychain/
-├── data/               ← Put your dataset(s) here  
-│   └── supply_data.csv
-│
-├── src/                ← Your Python code files  
-│   ├── forecasting.py
-│   ├── delivery_risk_model.py
-│   └── app.py          ← This is your Flask web app
-│
-├── report/             ← Your final project report (PDF)
+-> data -> Put your dataset(s) here  
+   └── supply_data.csv
+
+Inside the zip file ← Your Python code 
+   ├── forecasting.py
+   ├── delivery_risk_model.py
+   └── app.py          ← This is your Flask web app
+
+├── report        ← Your final project report (PDF)
 │   └── Final_Report.pdf
 │
 ├── README.md           ← The file we just updated
